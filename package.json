@@ -2,7 +2,7 @@
   "name": "klay-safe-deployments",
   "version": "1.8.0",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/klaysafe/safe-deployments/",
+  "homepage": "https://github.com/mac0102/klay-safe-deployments",
   "license": "LGPL-3.0",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klaysafe/klaysafe-deployments.git"
+    "url": "https://github.com/mac0102/klay-safe-deployments"
   },
   "keywords": [
     "Ethereum",
@@ -29,7 +29,7 @@
   ],
   "author": "mac@klaysafe.io",
   "bugs": {
-    "url": "https://github.com/klaysafe/klaysafe-deployments/issues"
+    "url": "https://github.com/mac0102/klay-safe-deployments/issues"
   },
   "devDependencies": {
     "@types/node": "^14.14.21",
