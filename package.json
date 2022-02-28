@@ -1,6 +1,6 @@
 {
-  "name": "klay-safe-deployments",
-  "version": "1.8.0",
+  "name": "klay_safe_deployments",
+  "version": "1.0.1",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/mac0102/klay-safe-deployments",
   "license": "LGPL-3.0",

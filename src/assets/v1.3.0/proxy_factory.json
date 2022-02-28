@@ -45,7 +45,7 @@
       "inputs": [
         {
           "indexed": false,
-          "internalType": "contract GnosisSafeProxy",
+          "internalType": "contract KlaySafeProxy",
           "name": "proxy",
           "type": "address"
         },
@@ -80,7 +80,7 @@
       "name": "calculateCreateProxyWithNonceAddress",
       "outputs": [
         {
-          "internalType": "contract GnosisSafeProxy",
+          "internalType": "contract KlaySafeProxy",
           "name": "proxy",
           "type": "address"
         }
@@ -104,7 +104,7 @@
       "name": "createProxy",
       "outputs": [
         {
-          "internalType": "contract GnosisSafeProxy",
+          "internalType": "contract KlaySafeProxy",
           "name": "proxy",
           "type": "address"
         }
@@ -138,7 +138,7 @@
       "name": "createProxyWithCallback",
       "outputs": [
         {
-          "internalType": "contract GnosisSafeProxy",
+          "internalType": "contract KlaySafeProxy",
           "name": "proxy",
           "type": "address"
         }
@@ -167,7 +167,7 @@
       "name": "createProxyWithNonce",
       "outputs": [
         {
-          "internalType": "contract GnosisSafeProxy",
+          "internalType": "contract KlaySafeProxy",
           "name": "proxy",
           "type": "address"
         }
